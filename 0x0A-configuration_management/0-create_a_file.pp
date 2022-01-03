@@ -8,3 +8,4 @@ file {'school':
   group   => 'www-data',
   path    => '/tmp/school',
 }
+
