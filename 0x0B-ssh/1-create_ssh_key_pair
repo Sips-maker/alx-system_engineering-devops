@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#This script generate a password protected RSA key pair named holberton
-ssh-keygen -b 4096 -f school -N betty
